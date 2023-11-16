@@ -10,3 +10,15 @@ console.log(mergingArray)
 const numbers = [23, 55, 21, 87, 56];
 const maxNum = Math.max(...numbers)
 console.log(maxNum);
+
+
+// day to day life
+// sonarcube?
+// post vs get
+// can we use get in post
+// reactjs?
+// lifecycle?
+// useeffect?
+// dom
+// ajile 
+// 
